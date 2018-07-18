@@ -1,5 +1,5 @@
-# a basic html 
-this is a example of my reference book 
+#this is some practice questiones of my reference book and my idea  
+1.HTML basics
 >html css javascript 网页制作从入门到精通.
 
 
